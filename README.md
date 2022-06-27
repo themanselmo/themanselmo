@@ -1,6 +1,6 @@
 # Max Anselmo
 
-### Hello! Welcome to my GitHub :-)
+### Hello! Welcome to my GitHub
 
 ## Full-Stack Developer, keen on pushing the boundaries in the Web and Horticultural Software Space!
 If I'm not working on one of my projects, I might be:
